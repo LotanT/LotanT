@@ -2,6 +2,7 @@
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
 
 - 📫 How to reach me **lotan92@gmail.com**
+- 📫 How to reach me **lotan92@gmail.com**
 
 - ⚡ Fun fact **I love Airplanes**
 
