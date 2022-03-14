@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Lotan</h1>
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
 
-- 🔭 I’m currently looking for my first opportunity to work in web development.
+- 🔭 I’m currently looking for opportunity to work in development.
 
-- 🌱 I continue to learn and develop my skills in React.js.
-
-- 👯 I’m looking to collaborate on OpenSource Projects.
+- 🌱 I continue to learn and develop my skills in React.js and node.js.
 
 - 📫 How to reach me **lotan92@gmail.com**
 
-- 👨‍💻 All of my projects are available at My Portfolio.
+- 👨‍💻 All of my projects are available at <a href=''>My Portfolio.</a>
 
 - ⚡ Fun fact **I love Airplanes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lotan toiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lotan toiw" height="30" width="40" /></a>
-<a href="https://fb.com/lotan toiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lotan toiw" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lotan-toiw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lotan toiw" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lotan.toiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lotan toiw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
